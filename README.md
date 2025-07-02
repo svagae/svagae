@@ -18,6 +18,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=svagae&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 📈 LeetCode Stats & Calendar
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vOqMw0M2W4?theme=dark&ext=heatmap)](https://leetcode.com/u/vOqMw0M2W4/)
+
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=svagae&icon=6&color=0)](https://visitcount.itsvg.in)
 
